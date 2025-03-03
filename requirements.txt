@@ -1,0 +1,4 @@
+Flask              # Lightweight web framework
+python-pptx        # Handles PowerPoint (.pptx) file processing
+werkzeug           # Secure file handling
+gunicorn           # Production WSGI server for deployment
